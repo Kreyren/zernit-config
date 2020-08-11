@@ -1,0 +1,1 @@
+Special directory used to define hooks only for downstream class named `zeres-0`

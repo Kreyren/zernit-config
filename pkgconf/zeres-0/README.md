@@ -1,0 +1,1 @@
+Special directory used to define package configs only for downstream class named `zeres-0`
